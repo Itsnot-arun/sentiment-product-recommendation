@@ -1,6 +1,6 @@
 # Sentiment-Based Product Recommendation System
 
-An end-to-end machine learning project that combines collaborative filtering with sentiment analysis to deliver product recommendations that are both relevant and well-reviewed. Built as the capstone for the MSc Data Science & AI programme (upGrad).
+An end-to-end machine learning project that combines collaborative filtering with sentiment analysis to deliver product recommendations that are both relevant and well-reviewed. Built as the capstone for the MSc Data Science & AI programme.
 
 ## Overview
 
@@ -65,4 +65,4 @@ In line with the project brief, the system assumes that no new users or products
 
 ## Author
 
-**Arun K** — MSc Data Science & AI, upGrad
+**Arun K** — MSc Data Science & AI
